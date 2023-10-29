@@ -27,4 +27,17 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
+ ⭐️ Tecnologias usadas!
+<p width = "100vw"  align="center"><img src="https://img.icons8.com/color/100/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/100/000000/css3.png"/> <img src="https://img.icons8.com/color/100/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/100/000000/react.png"/> <img src="https://img.icons8.com/color/100/000000/nextjs.png"/>
+ <img src="https://img.icons8.com/color/100/000000/tailwindcss.png"/>
 
+
+
+ <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+
+<img src="https://img.icons8.com/color/100/000000/npm.png"/></p>
+<img src="https://img.icons8.com/color/100/000000/python.png"/></p>
+
+
+<br>
