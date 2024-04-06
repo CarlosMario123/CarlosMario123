@@ -1,43 +1,78 @@
+<h2 align="center">Hi 👋! My name is Carlos</h2>
 
+###
 
-<!--
-**CarlosMario123/CarlosMario123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p  width = "100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2301EA2DD&size=33&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Software;Me+gusta+el+desarrollo+frontend;Tech+favoritas+frontend;React+js;TailwindCss;DaysiIu"></a>
-</p>
-
-
-      
-<div align="center" >
-  <img src = "https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=CarlosMario123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" align="center"/>
-  <img src = "https://github-readme-stats.vercel.app/api?username=CarlosMario123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosMario123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   <img width="12" />
+    <img height="250" src="https://static.wixstatic.com/media/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png"  />
 
 </div>
 
-<br>
- ⭐️ Tecnologias usadas!
-<p width = "100vw"  align="center"><img src="https://img.icons8.com/color/100/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/100/000000/css3.png"/> <img src="https://img.icons8.com/color/100/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/100/000000/react.png"/> <img src="https://img.icons8.com/color/100/000000/nextjs.png"/>
- <img src="https://img.icons8.com/color/100/000000/tailwindcss.png"/>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosMario123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
+</div>
 
- <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+###
 
-<img src="https://img.icons8.com/color/100/000000/npm.png"/></p>
-<img src="https://img.icons8.com/color/100/000000/python.png"/></p>
+<h3 align="left">Lenguajes usados</h3>
 
+###
 
-<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">Tech usadas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CarlosMario123/CarlosMario123/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CarlosMario123/count.svg?"  />
+</div>
+
+###
