@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://static.wixstatic.com/media/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png"  />
+<img align="right" height="180" src="https://static.wixstatic.com/media/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png"  />
 
 ###
 
